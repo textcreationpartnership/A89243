@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of His Excellency Iames Marques of Montrose, Earl of Kincairn, Lord Græme, Baron of Montdeu, Lieutenant Governour and Captaine Generall for His Maiestie of the kingdome of Scotland.</title>
+            <author>Montrose, James Graham, Marquis of, 1612-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89243</idno>
+            <idno type="STC">Wing M2513</idno>
+            <idno type="STC">Thomason E1249_3</idno>
+            <idno type="STC">ESTC R208896</idno>
+            <idno type="EEBO-CITATION">99867813</idno>
+            <idno type="PROQUEST">99867813</idno>
+            <idno type="VID">169497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 171:E1249[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of His Excellency Iames Marques of Montrose, Earl of Kincairn, Lord Græme, Baron of Montdeu, Lieutenant Governour and Captaine Generall for His Maiestie of the kingdome of Scotland.</title>
+                  <author>Montrose, James Graham, Marquis of, 1612-1650.</author>
+               </titleStmt>
+               <extent>[4], 9, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>At Gottenberge :</pubPlace>
+                  <date>anno M DC XLIX [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a blank preliminary and final leaf.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169497:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>DECLARATION <hi>OF HIS EXCELLENCY</hi> IAMES MAR<g ref="char:EOLhyphen"/>QVES OF MON<g ref="char:EOLhyphen"/>TROSE, EARL OF KIN<g ref="char:EOLhyphen"/>CAIRN, LORD GRAEME, BAR<g ref="char:EOLhyphen"/>RON OF MONTDEV, LIEVTENANT GOVERNOVR AND CAPTAINE GENERALL FOR HIS MA<g ref="char:EOLhyphen"/>IESTIE OF THE KING<g ref="char:EOLhyphen"/>DOME OF SCOT<g ref="char:EOLhyphen"/>LAND.</p>
+            <p>At <hi>Gottenberge. ANNO MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169497:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="1" facs="tcp:169497:2"/>
+            <!-- PDF PAGE 75 -->
+            <head>DECLARATION, OF HIS EXCELLENCY, JAMES MARQUES OF MONTROSE.</head>
+            <p>THough it may ſeem, Publick (both) and Privat Injury, Rather then ma<g ref="char:EOLhyphen"/>ter of Duety or Juſt Procedeur, to do any Act whatſumever that can in ſo much as appear to diſpute, the Clearneſſe of this preſent ſervice, or to hold ſuch enemyes as a Party; The Juſtice of his Majeſties cauſe, The wickednes of thos Rebells, and my oun Integrity, Being (all of them) ſo weell and ſo throughly knoun as they are;</p>
+            <p>Yet the further to confirm the world, The more to encourage all who are to en<g ref="char:EOLhyphen"/>gage, And the Pouerfullier to convince many, who have Harmleſly been envol<g ref="char:EOLhyphen"/>ved, and Innocently Inveigled, in thoſe deſperate courſes; I do in the name of his moſt ſacred Majeſty, and by vertue of the Pouer and Authority granted by him un<g ref="char:EOLhyphen"/>to me. Declare.</p>
+            <p>
+               <pb n="2" facs="tcp:169497:3"/>
+               <!-- PDF PAGE 76 -->
+That Howbeit ther hath been (and ſtill are) ane Horrid and Infamous Faction of Rebells within the Kingdome of Scot<g ref="char:EOLhyphen"/>land [who moſt cauſlesly at firſt did hatch Rebellion againſt his late Majeſtie of Glorious Memory, And when he had granted unto them (by their oun acknou<g ref="char:EOLhyphen"/>ledgement) all their Violent and moſt unjuſt deſyrs, They were ſo farr from re<g ref="char:EOLhyphen"/>ſting, notwithſtanding, ſatisfyed (as be<g ref="char:EOLhyphen"/>ing Themſelves able to fynd no further Pretences) They did Pernitiouſly Solicit ane Party in the Kingdome of England, to beginn, where Shame and Neceſsity had forced them to break off, And when Thos of the Engliſh (being by much leſſe wicked) would have often Satisfyed themſelves by his Majeſties extraordinary Conceſsion; (They then not intending the deſperate lenths which fatall ſucceſſe and their hollow Practiſers did therafter dryve them too) Then did they ſtill thurſt in (as Oyll to the Fyre, and Ganger to the Wound) untill they had randred all Irre<g ref="char:EOLhyphen"/>coverable;
+<pb n="3" facs="tcp:169497:3"/>
+               <!-- PDF PAGE 76 -->Neyther were they contented in the Fox skinn allone, to act this Their ſo Brutiſh a Tragedy (which indeed could never have ſerved their ends) But while they had received all Imaginable Satisfa<g ref="char:EOLhyphen"/>ction at Home, (As their werry oun Acts of Parliament doth witneſſe, wherein, They ſay, That his Late Majeſtie parted a Contented King from a Contented Peo<g ref="char:EOLhyphen"/>ple,) Fynding their Rebell Brood, how they had begot in England beginning to leſſen, and that his Majeſties Party appeared to have by much the better, They not only contrary to the Duety of ſubjects, But all Fayth, Cove<g ref="char:EOLhyphen"/>nants, Oathes, Atteſtations, to which they had ſo often Invoked God, his Angells, the World, and all as witneſſes, Did enter with a ſtrong Army the Kingdome of England, Perſecute their Prince, in a For<g ref="char:EOLhyphen"/>raigne Nation, Aſsiſt a company of ſtran<g ref="char:EOLhyphen"/>ger Rebells, againſt their Native King, and thos of his Loyall Party within that ſame Kingdome, Except for which the whole
+<pb n="4" facs="tcp:169497:4"/>
+               <!-- PDF PAGE 77 -->world does know his Majeſtie had with<g ref="char:EOLhyphen"/>out all Peradventure Prevailed; And not aſhamed of all this, (which even many of their oune Party did bluſh to awow) when his late Majeſtie wes by (God knows) how many unhappy treacheries, redacted to think upon extream Courſes for his ſafety, He wes pleaſed, out of his ſo much Invincible goodneſſe, and Natu<g ref="char:EOLhyphen"/>rall Inclination towards his Native Peo<g ref="char:EOLhyphen"/>ple (Notwithſtanding all Their former Villanies) To chuſe that Ignoble Party to fall upon, Thinking that Thos who his Greatneſſe and their Duty could not obliedge, His Miſſery, and their Com<g ref="char:EOLhyphen"/>paſsion, might perhaps move with Pit<g ref="char:EOLhyphen"/>ty; Yet too Juſtly fearing their Punik Faiths, He firſt reſolved to Ingage them by a Treaty, After which, when by ma<g ref="char:EOLhyphen"/>ny Intercourſes, his Majeſty had receaved all manner of Aſſurances, (which tho Shame would make them willingly ex<g ref="char:EOLhyphen"/>cuſe, Yet guylt will let Them have no<g ref="char:EOLhyphen"/>thing to ſay for it, It being ſo undenyable
+<pb n="5" facs="tcp:169497:4"/>
+               <!-- PDF PAGE 77 -->and to all the world ſo knoun a Trueth) Caſting himſelf in their hands, They (Contrary, to all Fayth and Faction, Truſt of Friends, Duty of ſubjects, Laws of Hoſpitality, Nature, Nations, Divine and Humane, to which there hath never been Precedent, nor can ever be a Follouer) Moſt Infamouſly, and beyond all Imaginable Expreſsion of Invincible Baſenes, (to the Bluſh of Chriſtians Abo<g ref="char:EOLhyphen"/>mination of Mankynd) Sold their So<g ref="char:EOLhyphen"/>veraigne ower, to their Mercyles Fellow Traytors to be deſtroyed; with whom How they have Comploted his Deſtru<g ref="char:EOLhyphen"/>ction, Their ſecret Intercourſes, both be<g ref="char:EOLhyphen"/>fore, In the tyme, and ſince his Horrid Murther, do too evidently declare; Of all which Villanies, They are ſo little touched with the guylt, as they now be<g ref="char:EOLhyphen"/>ginn with his Majeſty upon the ſame Scores they left with his Father, Declaring him King with Proviſoes, ſo Robbing him of all Right while they would ſeem to give ſome unto him, Preſsing him to
+<pb n="6" facs="tcp:169497:5"/>
+               <!-- PDF PAGE 78 -->Joyne with Thos who have liged all his Dominions in Rebellion and layd all Royall Pouer into the Duſt, That in ef<g ref="char:EOLhyphen"/>fect he would Condemne the Memory of his Sacred Father, Deſtroy himſelf, and Ruin his Faithfull Party within all thos Dominions; Thir are Thos who at Firſt entred England, Soliciting all to Ryſe in this Deſperat Rebellion (as the Prologue of their enſeuing Tragedy (who who wer the Cheeff and Mayne Inſtru<g ref="char:EOLhyphen"/>ments of all the Battells; Slaughters, and Bloody Occaſions, within that King<g ref="char:EOLhyphen"/>dome, who ſold Their Soveraigne unto the Death, And that yet Diggs in his Grave, and who are more Pernitiouſly Hatching the Deſtruction of his preſent Majeſtie, by the ſame bare, Old, Outdated Treacheries, then ever they did his Sacred Fathers] Yet the People (in Generall) Ha<g ref="char:EOLhyphen"/>ving been but Ignorantly miſled to it (Whos eyes now for moſt part, God hes opened, and turned their hearts, (at leaſt in their Deſyres) to Their Dutyful obedience,
+<pb n="7" facs="tcp:169497:5"/>
+               <!-- PDF PAGE 78 -->And that there hes ſtill been a Loyall Party, who have givvin Such Proffs of their Integrity, as his Majeſtie is mowed with a tender Compaſsion; for thos Righteous ſakes, in behalf of All, who now at laſt, have Remorſe for their for<g ref="char:EOLhyphen"/>mer miſdemeanours. His Majeſtie is not onely willing to Pardon every one, (Ex<g ref="char:EOLhyphen"/>cepting Such who upon clear evidencies ſhall be found guylty of that moſt Dam<g ref="char:EOLhyphen"/>nable Fact of the Murther of his Father) (who upon ſight or knouledge heerof do Immediately or upon the Firſt Poſsible Conveniency, Abbandon thos Rebells and Ryſe and Joyne themſelves with ws and our Forces in this preſent ſervice) But alſo to aſſure all who are or will turne Loyall unto him of that Nation; That it is his Majeſties Reſolution (which He doth Aſſure, and Promiſe unto them, up<g ref="char:EOLhyphen"/>on the word of a Prince (to be ever rea<g ref="char:EOLhyphen"/>dy to Ratiefy (ſo ſoon as it ſhall pleas God to put it in his Pouer, According to the advyce of the Supreame Judicatories
+<pb n="8" facs="tcp:169497:6"/>
+               <!-- PDF PAGE 79 -->of that Kingdome) All what hes been done by his Royall Father in Order to their Peace; Deſyring nothing More, but Their dutyfull Obedience, and Faithfull Services, for the Rewenge of the Horrid Murther of his Father, His Juſt Reeſta<g ref="char:EOLhyphen"/>bliſhment, and their oun Perpetuall Hap<g ref="char:EOLhyphen"/>pienes, under his Gouernment.</p>
+            <p>Wherfor, All who haue any Duety left them, to God, their King, Countrey, Friends, Homes, Wyves, and Childreen, Or Would chang (now at Laſt) the Ty<g ref="char:EOLhyphen"/>rrany, Violence, and Oppreſsion, of Thos Rebells, With the Myild and Innocent Gouernment, of their Juſt Prince; Or Re<g ref="char:EOLhyphen"/>vveng, the Horrid, and Execrable Murther of Their Sacred King, Redeem their Nation from Infamy; themſelves from Slavvery, Reſtore the Preſent, and Obliedge the Ages to come; Let Them, as Chriſtians, Subjects, Patriots, Friends, Husbands, and Fathers, Joyne themſelues Furthvvith with ws, In this Preſent ſervice, that is ſo full, of Conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="9" facs="tcp:169497:6"/>
+               <!-- PDF PAGE 79 -->Duety, Honnor, and all Juſt Inter<g ref="char:EOLhyphen"/>reſts, And not apprehend any Evills, (which they may feare Can befall) Halfe ſo much, as Thos they Preſently lye vn<g ref="char:EOLhyphen"/>der, For tho ther may appeare many Difi<g ref="char:EOLhyphen"/>culties, Yet let them not Doubt of Gods Juſtice, Nor the Happie Providence that may attend his Majeſtie, Nor their oun Reſolutions, Nor the Fortuns of Thos, who they are Joynd withall; Reſolving with <hi>Joab;</hi> to play the Men for their Peo<g ref="char:EOLhyphen"/>ple and the Cittyes of their God, And let the Lord do whatever ſeemeth him Good; Wherin, whatsum euer ſhall behappin, They may (at leaſt) be aſſured, of <hi>Craſtinus</hi> Recompence, That Dead, or Allyue, the World will giue Them Thanks.</p>
+            <closer>
+               <signed>MONTROSE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
